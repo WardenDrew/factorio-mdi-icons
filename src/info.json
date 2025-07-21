@@ -1,0 +1,13 @@
+{
+    "name": "factorio-mdi-signals",
+    "version": "1.0.0",
+    "title": "Factorio Material Design Icon (MDI) Signals",
+    "author": "WardenDrew",
+    "contact": "https://github.com/WardenDrew",
+    "homepage": "https://github.com/wardendrew/factorio-mdi-signals",
+    "dependencies": [
+        "base >= 2.0.0"
+    ],
+    "factorio_version": "2.0",
+    "description": "Adds new virtual signals generated from the Material Design Icons library. For the full-stack developer in all of us."
+}
